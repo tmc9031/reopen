@@ -4,9 +4,9 @@
 
   <default remote="github" revision="refs/heads/master"/>
 
-  <project name="tmc9031/reopen_build" path="build">
+  <project name="tmc9031/reopen_build" path="build" revision="refs/heads/topic/multi-lib">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
-  <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
+  <project name="tmc9031/reopen_example_helloclib" path="example/helloclib" revision="refs/heads/topic/multi-lib"/>
 </manifest>
