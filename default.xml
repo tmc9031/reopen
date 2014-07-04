@@ -4,10 +4,10 @@
 
   <default remote="github" revision="refs/heads/master"/>
 
-  <project name="tmc9031/reopen_build" path="build">
+  <project name="tmc9031/reopen_build" path="build" revision="refs/heads/topic/pre-make">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
   <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
-  <project name="tmc9031/reopen_premake_makec" path="premake/makec"/>
+  <project name="tmc9031/reopen_premake_makec" path="premake/makec" revision="refs/heads/topic/pre-make"/>
 </manifest>
