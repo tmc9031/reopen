@@ -10,4 +10,5 @@
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
   <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
   <project name="tmc9031/reopen_premake_makec" path="premake/makec" revision="refs/heads/topic/pre-make"/>
+  <project name="tmc9031/reopen_premake_zlib" path="premake/zlib" revision="refs/heads/topic/pre-make"/>
 </manifest>
