@@ -9,8 +9,10 @@
   </project>
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
   <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
+  <project name="tmc9031/reopen_premake_libpcap" path="premake/libpcap" revision="refs/heads/topic/pre-make"/>
   <project name="tmc9031/reopen_premake_makec" path="premake/makec" revision="refs/heads/topic/pre-make"/>
   <project name="tmc9031/reopen_premake_openssh" path="premake/openssh" revision="refs/heads/topic/pre-make"/>
   <project name="tmc9031/reopen_premake_openssl" path="premake/openssl" revision="refs/heads/topic/pre-make"/>
+  <project name="tmc9031/reopen_premake_tcpdump" path="premake/tcpdump" revision="refs/heads/topic/pre-make"/>
   <project name="tmc9031/reopen_premake_zlib" path="premake/zlib" revision="refs/heads/topic/pre-make"/>
 </manifest>
