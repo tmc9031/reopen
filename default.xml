@@ -9,6 +9,7 @@
   </project>
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
   <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
+  <project name="tmc9031/reopen_example_kernelc" path="example/kernelc"/>
   <project name="tmc9031/reopen_generate_datamodel" path="generate/datamodel"/>
   <project name="tmc9031/reopen_generate_genc" path="generate/genc"/>
   <project name="tmc9031/reopen_prebuilts_builtc" path="prebuilts/builtc"/>
