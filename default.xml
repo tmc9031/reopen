@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch=".." name="github"/>
-
+  
   <default remote="github" revision="refs/heads/master"/>
-
+  
   <project name="tmc9031/reopen_build" path="build">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
