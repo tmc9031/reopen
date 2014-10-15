@@ -10,5 +10,7 @@
   <project name="tmc9031/reopen_example_helloc" path="example/helloc"/>
   <project name="tmc9031/reopen_example_helloclib" path="example/helloclib"/>
   <project name="tmc9031/reopen_premake_makec" path="premake/makec"/>
+  <project name="tmc9031/reopen_premake_openssh" path="premake/openssh"/>
+  <project name="tmc9031/reopen_premake_openssl" path="premake/openssl"/>
   <project name="tmc9031/reopen_premake_zlib" path="premake/zlib"/>
 </manifest>
