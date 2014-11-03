@@ -16,6 +16,7 @@
   <project name="tmc9031/reopen_generate_genc" path="generate/genc"/>
   <project name="tmc9031/reopen_prebuilts_arm-linux-androideabi-4.5" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.5"/>
   <project name="tmc9031/reopen_prebuilts_builtc" path="prebuilts/builtc"/>
+  <project name="tmc9031/reopen_prebuilts_mtdutils" path="prebuilts/mtdutils" revision="refs/heads/topic/image"/>
   <project name="tmc9031/reopen_prebuilts_tools" path="prebuilts/tools"/>
   <project name="tmc9031/reopen_premake_makec" path="premake/makec"/>
 </manifest>
